@@ -1,12 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), and open source CSS framework Tailwind https://tailwindcss.com/. Its a demonstratve portfolio website
+
 
 
 
   <p>
-    Demmo portfolio website build with Next.js  and Tailwind for styling - this repository contains its source code     
+    This repository contains its source code     
     <br />
     <br />
-    <a href=""><strong>View the deployed app»</strong></a>
+    <a href="https://react-next-tailwind-1wum.vercel.app/"><strong>View the deployed app»</strong></a>
     <br />
     <br />
    
