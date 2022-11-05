@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+
+  <p>
+    Demmo portfolio website build with Next.js  and Tailwind for styling - this repository contains its source code     
+    <br />
+    <br />
+    <a href=""><strong>View the deployed app»</strong></a>
+    <br />
+    <br />
+   
+  </p>
+</div>
+
 ## Getting Started
 
 First, run the development server:
